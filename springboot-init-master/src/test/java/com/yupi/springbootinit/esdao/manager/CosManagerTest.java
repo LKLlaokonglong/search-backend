@@ -1,6 +1,8 @@
-package com.yupi.springbootinit.manager;
+package com.yupi.springbootinit.esdao.manager;
 
 import javax.annotation.Resource;
+
+import com.yupi.springbootinit.manager.CosManager;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 

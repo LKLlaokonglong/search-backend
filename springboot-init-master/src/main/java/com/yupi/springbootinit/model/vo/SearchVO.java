@@ -25,6 +25,8 @@ public class SearchVO implements Serializable {
 
     private List<PostVO> postList;
 
+    private List<?> dataList;
+
     private static final long serialVersionUID = 1L;
 
 }

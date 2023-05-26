@@ -35,7 +35,6 @@ public class PictureServiceImpl implements PictureService {
         }
         Elements elements = doc.select(".iuscp.isv");
         List<Picture> pictureList = new ArrayList<>();
-        System.out.println(doc);
         for (Element element : elements) {
             String m = element.select(".iusc").get(0).attr("m");
             // 取标题

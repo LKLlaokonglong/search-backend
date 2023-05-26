@@ -18,6 +18,11 @@ public class SearchAllRequest extends PageRequest implements Serializable {
      */
     private String searchText;
 
+    /**
+     * 搜索类型
+     */
+    private String type;
+
     private static final long serialVersionID = 1L;
 
 }

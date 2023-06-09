@@ -83,7 +83,7 @@ wx:
 # todo 需替换配置
 cos:
   client:
-    accessKey: AKIDBIanwyzvjOuIZiljcN0Z3vgO5mAUg5Wu
-    secretKey: SgondKtJeGzb9g7QbjlgSDqKfw693ptr
+    accessKey: 
+    secretKey: 
     region: ap-chongqing
-    bucket: liuliumei-picture-1310088183
+    bucket: 
